@@ -21,3 +21,13 @@ C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\ref\CommandAPI.dll
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.pdb
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.genruntimeconfig.cache
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
