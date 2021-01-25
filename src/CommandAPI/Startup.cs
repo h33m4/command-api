@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using CommandAPI.Data;
+using Npgsql;
 
 namespace CommandAPI
 {
@@ -26,8 +27,12 @@ namespace CommandAPI
         }
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<CommandContext>(opt => opt.UseNpgsql(
-                Configuration.GetConnectionString("PostgreSqlConnection")));
+            var builder = new NpgsqlConnectionStringBuilder(); //connection string as an object with attributes e.g. username, host, etc
+            builder.ConnectionString = Configuration.GetConnectionString("PostgreSqlConnection");
+            builder.Username = Configuration["UserId"]; //UserId stored in secrets.json file
+            builder.Password = Configuration["Password"]; //Password stored in secrets.json file
+
+            services.AddDbContext<CommandContext>(opt => opt.UseNpgsql(builder.ConnectionString));
 
             services.AddControllers();
 
