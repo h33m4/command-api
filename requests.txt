@@ -1,9 +1,0 @@
-### GetAllCommands()
-
-GET http://localhost:5000/api/commands HTTP/1.1
-
-### GetCommandById()
-
-GET http://localhost:5000/api/commands/3 HTTP/1.1
-
-### 
