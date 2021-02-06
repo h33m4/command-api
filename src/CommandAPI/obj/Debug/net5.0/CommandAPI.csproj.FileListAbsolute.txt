@@ -33,3 +33,7 @@ C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\adams\Desktop\Command API Second Run\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

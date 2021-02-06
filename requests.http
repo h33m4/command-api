@@ -12,7 +12,7 @@ POST http://localhost:5000/api/commands HTTP/1.1
 content-type: application/json
 
 {
-    "howTo": "",
-    "platform": "",
-    "commandLine": ""
+    "howTo": "Build a .NET Core App",
+    "platform": ".NET Core CLI",
+    "commandLine": "dotnet build"
 }
