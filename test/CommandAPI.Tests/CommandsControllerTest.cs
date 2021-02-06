@@ -203,7 +203,7 @@ namespace CommandAPI.Tests
             var result = controller.CreateCommand(new CommandCreateDto { });
 
             //Assert
-            Assert.IsType<ActionResult<CommandCreateDto>>(result);
+            Assert.IsType<ActionResult<CommandReadDto>>(result);
         }
 
         [Fact]
